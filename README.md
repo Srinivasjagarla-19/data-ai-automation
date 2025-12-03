@@ -7,22 +7,8 @@
   </p>
 
   <!-- IMAGE SLOTS – Replace with your images -->
-  <img 
-  src="<img width="1920" height="1147" alt="image" src="https://github.com/user-attachments/assets/52d46808-536b-4066-ada4-8f6c81ee0703" />
-" 
-  alt="Project Preview 1" 
-  width="47%" 
-  style="margin-right: 10px; border-radius: 10px;"
->
-
-<img 
-  src="<img width="1572" height="722" alt="image" src="https://github.com/user-attachments/assets/cb0142cc-a0d3-401c-937f-c1d8dc8b6231" />
-" 
-  alt="Project Preview 2" 
-  width="47%" 
-  style="border-radius: 10px;"
->
-
+  <img width="1920" height="1147" alt="image" src="https://github.com/user-attachments/assets/52d46808-536b-4066-ada4-8f6c81ee0703" />
+  <img width="1572" height="722" alt="image" src="https://github.com/user-attachments/assets/cb0142cc-a0d3-401c-937f-c1d8dc8b6231" />
   <br><br>
 </div>
 
