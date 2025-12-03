@@ -1,0 +1,11 @@
+order_id,date,customer_name,product,category,price,quantity,city
+1001,1735689600000000000,alice,notebook,stationery,5.5,10,new york
+1002,1735776000000000000,bob,pen,stationery,1.2,20,chicago
+1003,1735862400000000000,charlie,laptop,electronics,750.0,1,san francisco
+1004,1735948800000000000,diana,mouse,electronics,25.0,2,boston
+1005,1736035200000000000,eva,headphones,electronics,80.0,1,seattle
+1006,1736121600000000000,frank,notebook,stationery,5.5,5,los angeles
+1007,1736208000000000000,grace,pen,stationery,1.2,50,chicago
+1008,1736294400000000000,hank,monitor,electronics,200.0,1,new york
+1009,1736380800000000000,ian,chair,furniture,120.0,2,boston
+1010,1736467200000000000,judy,desk,furniture,300.0,1,seattle

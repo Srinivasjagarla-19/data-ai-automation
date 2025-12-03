@@ -1,0 +1,11 @@
+order_id,date,customer_name,product,category,price,quantity,city
+1001,2025-01-01,Alice,Notebook,Stationery,5.5,10,New York
+1002,2025-01-02,Bob,Pen,Stationery,1.2,20,Chicago
+1003,2025-01-03,Charlie,Laptop,Electronics,750,1,San Francisco
+1004,2025-01-04,Diana,Mouse,Electronics,25,2,Boston
+1005,2025-01-05,Eva,Headphones,Electronics,80,1,Seattle
+1006,2025-01-06,Frank,Notebook,Stationery,5.5,5,Los Angeles
+1007,2025-01-07,Grace,Pen,Stationery,1.2,50,Chicago
+1008,2025-01-08,Hank,Monitor,Electronics,200,1,New York
+1009,2025-01-09,Ian,Chair,Furniture,120,2,Boston
+1010,2025-01-10,Judy,Desk,Furniture,300,1,Seattle

@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+google-genai
+matplotlib
+fpdf2
+numpy
+tabulate
