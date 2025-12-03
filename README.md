@@ -7,10 +7,19 @@
   </p>
 
   <!-- IMAGE SLOTS – Replace with your images -->
-  <img src="<img width="1920" height="1147" alt="image" src="https://github.com/user-attachments/assets/ffb1856d-ab4d-4de8-88ad-544c1c07f78e" />
-" alt="Project Preview 1" width="47%" style="margin-right: 10px; border-radius: 10px;">
-  <img src="<img width="1572" height="722" alt="image" src="https://github.com/user-attachments/assets/11aea522-0e9b-41be-b4a0-be2ffc971952" />
-" alt="Project Preview 2" width="47%" style="border-radius: 10px;">
+  <img 
+  src="https://github.com/user-attachments/assets/ffb1856d-ab4d-4de8-88ad-544c1c07f78e" 
+  alt="Project Preview 1" 
+  width="47%" 
+  style="margin-right: 10px; border-radius: 10px;"
+>
+
+<img 
+  src="https://github.com/user-attachments/assets/11aea522-0e9b-41be-b4a0-be2ffc971952" 
+  alt="Project Preview 2" 
+  width="47%" 
+  style="border-radius: 10px;"
+>
 
   <br><br>
 </div>
